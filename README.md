@@ -24,5 +24,25 @@ At the end of this course, the student will reliably demonstrate the ability to:
 | Quizes | Best of 8/10 quizes will be recorded | Random | 8% |
 | Lab Tests | Hands on tests that covers course content | 5 & 12 | 12% |
 | Lab Exercises | 8 weekly hands on exercises and AtKlass participation | Weekly | 8% |
-| Assignment 1 | Individual Assignment, **GitHub required for code verification** | 12% |
-| Assignment 2 | Individual Assignment, **GitHub required for code verification** | 16% |
+| Assignment 1 | Individual Assignment, **GitHub required for code verification** | 6 | 12% |
+| Assignment 2 | Individual Assignment, **GitHub required for code verification** | 13 | 16% |
+| Mid Term Exam | Mixed format and multiple-choice test | 7 | 18% |
+| Final Exam | Mixed format and multiple-choice test | 15 | 26% |
+
+# Topical Outline
+## Weekly learning Schedule / Topical Outline
+
+| Week | Topics |
+| :--: | ------ |
+| 1 | * Introduction to MEAN stack<br> * Review of JavaScript & ES6 Features<br> * Review Node's core concept |
+| 2 | * Accessing Local File System (read/create/update/delete/rename file or directory)
+|   | * Readable & Writable Streams
+|   |     * reading & writing chunk of data using pipe |
+|   | * Buffer Object |
+| 3 | * Interaction with Socket IO<br> * Working with Multiple Sockets<br> * Testing and Debugging<br> * Intro to testing framework Mocha |
+| 4 | * MongoDB and Mongoose |
+|   | * Review building the Schema and Models |
+|   |     * Query and sorting with Mongoose |
+|   |     * Methods and statics
+|   | * Middleware |
+      
