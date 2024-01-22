@@ -12,4 +12,4 @@ b.	Filter data of Canada and write data to canada.txt
 c.	Filter data of United States and write data to usa.txt
 
 # Output of the NPM Project
-!(https://github.com/RyunKL/Full-Stack-Development-ii/blob/main/Lab01-101296633_COMP3133/codeOutput.JPG)
+![lab01 codes terminal and console.log outputs](./codeOutput.JPG)
