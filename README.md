@@ -1,6 +1,6 @@
 # Full Stack Development-ii
 
-# Course Description
+## Course Description
 
 This course builds on the fundamental knowledge and skills required for full stack development (MEAN
 Stack). Students learn Angular as a front-end framework, implement NoSQL databases (MongoDB) and
@@ -8,7 +8,7 @@ work with Express framework and Node.js environment. Students enrolled in this c
 have prior working knowledge of HTML & CSS and JavaScript ES6 Node.js and Express (COMP3123).
 Knowledge of other JavaScript frameworks is an asset.
 
-# Course Outcomes
+## Course Outcomes
 
 At the end of this course, the student will reliably demonstrate the ability to:
 1. Design and implement a simple front-end web solution using Angular.
@@ -17,7 +17,7 @@ At the end of this course, the student will reliably demonstrate the ability to:
 4. Store and retrieve data to a MongoDB using Mongoose ODM.
 5. Implement and consume REST APIs with Node.js and Express.
 
-# Evaluation System
+## Evaluation System
 
 | Assessment | Description | Week | Weight |
 | ---------- | ----------- | ---- | ------ |
@@ -29,8 +29,8 @@ At the end of this course, the student will reliably demonstrate the ability to:
 | Mid Term Exam | Mixed format and multiple-choice test | 7 | 18% |
 | Final Exam | Mixed format and multiple-choice test | 15 | 26% |
 
-# Topical Outline
-## Weekly learning Schedule / Topical Outline
+## Topical Outline
+### Weekly learning Schedule / Topical Outline
 
 | Week | Topics |
 | :--: | ------ |
