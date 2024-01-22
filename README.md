@@ -34,11 +34,8 @@ At the end of this course, the student will reliably demonstrate the ability to:
 
 | Week | Topics |
 | :--: | ------ |
-| 1 | * Introduction to MEAN stack<br> * Review of JavaScript & ES6 Features<br> * Review Node's core concept |
-| 2 | * Accessing Local File System (read/create/update/delete/rename file or directory)
-|   | * Readable & Writable Streams
-|   |     * reading & writing chunk of data using pipe |
-|   | * Buffer Object |
+| 1 | * Introduction to MEAN stack<br> * Review of JavaScript & ES6 Features<br> * Review Node's core concept
+| 2 | * Accessing Local File System (read/create/update/delete/rename file or directory)<br> * Readable & Writable Streams<br>&nbsp;&nbsp;&nbsp;&nbsp;* reading & writing chunk of data using pipe<br> * Buffer Object |
 | 3 | * Interaction with Socket IO<br> * Working with Multiple Sockets<br> * Testing and Debugging<br> * Intro to testing framework Mocha |
 | 4 | * MongoDB and Mongoose |
 |   | * Review building the Schema and Models |
