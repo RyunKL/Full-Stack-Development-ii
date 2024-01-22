@@ -5,10 +5,18 @@ Quick refresher exercises on basic Node.js methods, functions, and commands. Int
 
 ## Review
 Here are the bash/ terminal commands to create a Node.js Project directory
-```mkdir <directory_name>```
+```
+mkdir <directory_name>
+```
 Next you should enter into the directory you wish to host your node project using this command
-```cd <directory_name>```
+```
+cd <directory_name>
+```
 This line of code initializes the directory as a node project
-```npm init -y```
+```
+npm init -y
+```
 Now ths command will open an editor for you to work on your project
-```code .```
+```
+code .
+```
