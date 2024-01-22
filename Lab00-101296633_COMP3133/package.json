@@ -1,0 +1,13 @@
+{
+  "name": "lab00-101296633_comp3133",
+  "version": "1.0.0",
+  "description": "Basic review on Node.js Projects & introduction on Buffers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["npm", "node", "buffer"],
+  "author": "Ryan Lee",
+  "license": "ISC"
+}
