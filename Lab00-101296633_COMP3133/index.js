@@ -40,3 +40,6 @@ console.log(buf1[1])
 console.log(buf1.toString())
 console.log(buf1.toString('hex'))
 console.log(buf1.toJSON())
+
+var buf2 = Buffer.alloc(5, 10)
+console.log(buf2)

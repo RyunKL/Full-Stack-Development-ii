@@ -1,3 +1,12 @@
+/*
+ __          __       _     ___ ___  
+ \ \        / /      | |   / _ \__ \ 
+  \ \  /\  / /__  ___| | _| | | | ) |
+   \ \/  \/ / _ \/ _ \ |/ / | | |/ / 
+    \  /\  /  __/  __/   <| |_| / /_ 
+     \/  \/ \___|\___|_|\_\\___/____|
+
+*/
 console.log('Week02 - FS and Streams Examples');
 const fs = require('fs');
 const path = require('path');
