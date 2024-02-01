@@ -31,3 +31,4 @@ npm install --save mocha chai
           div(10,2) expected result 2 **FAIL**
 
 5)	**Display your choice pass/fail messages for each test**
+![npm test output of this calculator lab exercise](codeOutput.JPG)
