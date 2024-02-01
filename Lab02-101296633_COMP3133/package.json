@@ -2,16 +2,25 @@
   "name": "lab02-101296633_comp3133",
   "version": "1.0.0",
   "description": "COMP 3133 - Lab02: Testing NodeJS app using mocha",
-  "main": "index.js",
+  "main": "app/calculator.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "mocha app/calculator.test.mjs"
   },
-  "keywords": ["npm", "node.js", "mocha"],
+  "keywords": [
+    "npm",
+    "node.js",
+    "mocha",
+    "calculator"
+  ],
   "author": "Ryan Lee",
   "license": "ISC",
-  "dependencies": {
-    "chai": "^5.0.0",
+  "devDependencies": {
+    "chai": "^5.0.3",
     "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
   }
 }

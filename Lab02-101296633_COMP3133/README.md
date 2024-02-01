@@ -1,5 +1,5 @@
 # Instructions
-##COMP 3133 - Lab02: Testing NodeJS app using mocha##
+## COMP 3133 - Lab02: Testing NodeJS app using mocha
 1)	**Download given node project name lab2_mocha_test ZIP file**
 2)	**Add package.json file to the project**
 3)  **Change directory to lab2_mocha_test**

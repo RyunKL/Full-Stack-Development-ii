@@ -1,15 +1,19 @@
-exports.add = function(i, j) {
-	return i + j;
-};
-
-exports.mul = function(i, j) {
-	return i * j;
-};
-
-exports.div = function(i, j) {
-	return i / j;
-};
-
-exports.sub = function(i, j) {
-	return i - j;
-};
+// calculator.js
+export function add(a, b) {
+	return a + b;
+  }
+  
+  export function sub(a, b) {
+	return a - b;
+  }
+  
+  export function mul(a, b) {
+	return a * b;
+  }
+  
+  export function div(a, b) {
+	if (b === 0) {
+	  throw new Error('Cannot divide by zero');
+	}
+	return a / b;
+  }
