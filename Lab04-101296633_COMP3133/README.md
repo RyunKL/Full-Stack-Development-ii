@@ -2,7 +2,7 @@
 Create a Node.JS, Express, MongoDB, Mongoose application that has the following deliverables
 
 ## Instructions
-1. Create a Node.JS project 
+1. Create a Node.JS project of a **User Database** 
 2. Add all the relavant packages, mongoose and express dependancies
 3. Add the UsersData.json file to your project
 4. Create UserSchema with the following
